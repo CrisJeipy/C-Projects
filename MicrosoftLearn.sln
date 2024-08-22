@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "challengePetData", "challengePetData", "{008014D3-DCE3-404E-BA3E-5FD1DAC5A4D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-branching-looping-CSharp-main", "Challenge-project-branching-looping-CSharp-main", "{DEB94EFC-255B-4EE2-B48E-C3EA673F061A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChallengeProject", "ChallengeProject", "{D55607D8-F74D-4C5F-A4BC-04984B7C76D1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starter", "challengePetData\Challenge-project-branching-looping-CSharp-main\ChallengeProject\Starter\Starter.csproj", "{CBAAB590-743F-4868-BACB-37A2C98A86DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBAAB590-743F-4868-BACB-37A2C98A86DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAAB590-743F-4868-BACB-37A2C98A86DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAAB590-743F-4868-BACB-37A2C98A86DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAAB590-743F-4868-BACB-37A2C98A86DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DEB94EFC-255B-4EE2-B48E-C3EA673F061A} = {008014D3-DCE3-404E-BA3E-5FD1DAC5A4D9}
+		{D55607D8-F74D-4C5F-A4BC-04984B7C76D1} = {DEB94EFC-255B-4EE2-B48E-C3EA673F061A}
+		{CBAAB590-743F-4868-BACB-37A2C98A86DA} = {D55607D8-F74D-4C5F-A4BC-04984B7C76D1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CF7E3E-B42B-4B2F-9CB6-A584FF64C972}
+	EndGlobalSection
+EndGlobal
